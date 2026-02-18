@@ -3,6 +3,8 @@ A macropad created for more efficient video viewing. There are 6 keys which are 
 
 This roughly took me around 18+ hours because it was my first time designing any type of hardware, but I really enjoyed the process!
 
+(Will add demo images and videos once VidPad is fully assembled)
+
 <img width="640" height="438" alt="Screenshot 2026-02-18 at 1 46 23 PM Large" src="https://github.com/user-attachments/assets/68898de8-4a6e-4e23-bc28-fbee73443e78" />
 
 # PCB
