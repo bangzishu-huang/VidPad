@@ -44,6 +44,7 @@ VidPad uses QMK for firmware
 - 6x 1N4148 Diodes
 - 6x MX-Style switches
 - 6x white blank DSA keycaps
+- 6x SK6812 MINI-E LEDs
 - 1x EC11 Rotary encoder
 - 1x 0.91 inch OLED display
 - 4x M3x16mm screws
